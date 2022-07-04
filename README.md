@@ -1,2 +1,2 @@
-# Crypto-Page
-It's a model page of CryptoCurrency. It's responsive and can run any mobile.
+# Crypto-web
+It's a model web of CryptoCurrency. It's responsive and can run any mobile.
